@@ -1,0 +1,97 @@
+{
+  "message": {
+    "header": "MovieTime website, the first provider of all content. Please support the website and share.",
+    "not-found-msg": "The page you are looking for could not be found.",
+    "searchFor": "Search for",
+    "not-found-something": "Nothing found."
+  },
+  "app": {
+    "name": "MovieTime",
+    "description": "موفي تايم MovieTime"
+  },
+  "lists": {
+    "nowPlaying": "Now Playing",
+    "topRated": "Top Rated",
+    "popular": "Popular",
+    "upcoming": "Upcoming",
+    "tvSeries": "TV Series"
+  },
+  "fields": {
+    "site": "𝖒𝖔𝖛𝖎𝖊𝕿𝖎𝖒𝖊",
+    "search": "Search",
+    "news": "Latest News",
+    "showMore": "Show More",
+    "movie": "Movie",
+    "series": "Series",
+    "story": "Story",
+    "details": "Details",
+    "runtime": "Runtime",
+    "minute": "Minute",
+    "releaseDate": "Release Date",
+    "movieLanguage": "Movie Language",
+    "budget": "Budget",
+    "origin_country": "Origin Country",
+    "age": "Age",
+    "adult": "+18 contains scenes of violence or explicit scenes",
+    "notAdult": "suitable for family viewing",
+    "watchSimilar": "Watch Similar Movies",
+    "first_air_date": "First Air Date",
+    "last_air_date": "Last Air Date",
+    "number_of_episodes": "Number Of Episodes",
+    "number_of_seasons": "Number Of Seasons",
+    "status": "Status"
+  },
+  "pages": {
+    "home": "Home",
+    "about": "About",
+    "movieDetails": "Movie Details",
+    "nowPlaying": "Now Playing",
+    "topRated": "Top Rated",
+    "popular": "Popular",
+    "upcoming": "Upcoming",
+    "tvSeries": "TV Series",
+    "tvSeriesDetails": "TV Series Details",
+    "search": "Search"
+  },
+  "placeholder": {
+    "search": "Search for movie,tv shows, person..... "
+  },
+  "footer": {
+    "footer": "All rights reserved MovieTime Cinema ©",
+    "created": "Created by"
+  },
+  "name": {
+    "name": "Basel Diab"
+  },
+  "nav": {
+    "upcoming": "Upcoming"
+  },
+  "genres": {
+    "Action": "Action",
+    "Adventure": "Adventure",
+    "Animation": "Animation",
+    "Comedy": "Comedy",
+    "Crime": "Crime",
+    "Documentary": "Documentary",
+    "Drama": "Drama",
+    "Family": "Family",
+    "Fantasy": "Fantasy",
+    "History": "History",
+    "Horror": "Horror",
+    "Music": "Music",
+    "Mystery": "Mystery",
+    "Romance": "Romance",
+    "Science Fiction": "Science Fiction",
+    "TV Movie": "TV Movie",
+    "Thriller": "Thriller",
+    "War": "War",
+    "Western": "Western",
+    "Kids": "Kids",
+    "News": "News",
+    "Reality": "Reality",
+    "Sci-Fi & Fantasy": "Sci-Fi & Fantasy",
+    "Soap": "Soap",
+    "Talk": "Talk",
+    "War & Politics": "War & Politics"
+  }
+}

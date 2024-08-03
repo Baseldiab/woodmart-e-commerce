@@ -1,0 +1,98 @@
+{
+  "message": {
+    "header": "موقع موفي تايم الاصلي الموقع الاول الموفر لجميع المحتوي يرجي دعم الموقع ومشاركة",
+    "not-found-msg": "الصفحة التي تبحث عنها غير موجودة.",
+    "searchFor": "بحث عن",
+    "not-found-something": "غير موجود"
+  },
+  "app": {
+    "name": "موفي تايم",
+    "description": "موفي تايم MovieTime"
+  },
+  "lists": {
+    "nowPlaying": " الأفلام المعروضة الآن",
+    "topRated": " الأفلام الأعلي تقييم",
+    "popular": "أشهر الافلام",
+    "upcoming": "الأفلام القادمة",
+    "tvSeries": "المسلسلات"
+  },
+  "fields": {
+    "search": "بحث",
+    "news": "اخر الاخبار",
+    "showMore": "عرض المزيد",
+    "movie": "فيلم",
+    "series": "المسلسل",
+    "tv": "المسلسلات",
+    "story": "القصة",
+    "details": "التفاصيل",
+    "runtime": "توقيت الفيلم",
+    "minute": "دقيقة",
+    "releaseDate": "موعد الصدور",
+    "movieLanguage": "لغة الفيلم",
+    "budget": "تكلفة الفيلم",
+    "origin_country": "دولة الفيلم",
+    "age": "العمر",
+    "adult": "+18 يحتوى على مشاهد عنف او مشاهد فاضحه",
+    "notAdult": " مناسب للمشاهدة العائلية ",
+    "watchSimilar": "مشاهدة عروض اخري",
+    "first_air_date": "تاريخ أول عرض",
+    "last_air_date": "تاريخ اخر عرض",
+    "number_of_episodes": "عدد الحلقات",
+    "number_of_seasons": "عدد المواسم",
+    "status": "الحالة"
+
+  },
+  "pages": {
+    "home": "الرئيسية",
+    "about": "نبذة عنا",
+    "movieDetails": " تفاصيل فيلم",
+    "nowPlaying": " معروضة الآن",
+    "topRated": " الأعلي تقييم",
+    "popular": "  الاشهر",
+    "upcoming": "  القادمة",
+    "tvSeries": "المسلسلات",
+    "tvSeriesDetails": "تفاصيل المسلسل",
+    "search": "بحث"
+  },
+  "placeholder": {
+    "search": "ابحث عن فيلم، مسلسل تلفزيوني، شخص ....."
+  },
+  "footer": {
+    "footer": "جميع الحقوق محفوظة موفي تايم سينما ©",
+    "created": "تم بواسطة"
+  },
+  "name": {
+    "name": "باسل دياب"
+  },
+  "nav": {
+    "upcoming": "المضاف حديثاً"
+  },
+  "genres": {
+    "Action": "حركة",
+    "Adventure": "مغامرة",
+    "Animation": "رسوم متحركة",
+    "Comedy": "كوميديا",
+    "Crime": "جريمة",
+    "Documentary": "وثائقي",
+    "Drama": "دراما",
+    "Family": "عائلي",
+    "Fantasy": "خيال",
+    "History": "تاريخ",
+    "Horror": "رعب",
+    "Music": "موسيقى",
+    "Mystery": "غموض",
+    "Romance": "رومانسي",
+    "Science Fiction": "خيال علمي",
+    "TV Movie": "فيلم تلفزيوني",
+    "Thriller": "إثارة",
+    "War": "حرب",
+    "Western": "غربي",
+    "Kids": "أطفال",
+    "News": "أخبار",
+    "Reality": "واقع",
+    "Sci-Fi & Fantasy": "خيال علمي وفانتازيا",
+    "Soap": "صابوني",
+    "Talk": "حديث",
+    "War & Politics": "حرب وسياسة"
+  }
+}
