@@ -15,7 +15,7 @@ module.exports = {
       colors: {
         mainBg: "#02020f",
         secBg: "#000E2B",
-        primary: "#558063",
+        primary: "#eb4815",
         secondary: "#36B9EA",
         searchBtn: "#8b8ba7",
         gradientSec: "#dbeafe14",

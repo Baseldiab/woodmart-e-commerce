@@ -4,7 +4,8 @@ import "./globals.css";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import { TLocale } from "../components/interfaces/global.interfaces";
-import Navbar from "../components/navbar/navbar";
+import MainNavbar from "../components/navbar/MainNavbar";
+import ToTopButton from "../components/buttons/ToTopButton";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -47,13 +48,21 @@ export default async function RootLayout({
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"}>
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
-          <Navbar
+          <MainNavbar
           // params={{
           //   locale: locale,
           // }}
           />
+          <main className="main_content my-6 h-[3000px]">
+            {children}
 
-          {children}
+            <ToTopButton />
+          </main>
+          {/* <Footer
+          params={{
+            locale: locale,
+          }}
+        /> */}
         </NextIntlClientProvider>
       </body>
     </html>
